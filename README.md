@@ -1,9 +1,9 @@
-#Relief valve simulation
+# Relief valve simulation
 Program simulates behaviour of compound-type relief valve similar to this one:
 
 ![image](pictures/valve.jpg)
 
-##Background
+## Background
 Program has been written after experiencing problems with loud operation/reduced hydraulic pressure on newly installed shipboard compactor.
 
 Suspicion was, that relief valve - under some circumstances - starts resonating causing high pressure peaks observed as loud noise
